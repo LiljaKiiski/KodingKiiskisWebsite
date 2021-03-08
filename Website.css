@@ -1,7 +1,88 @@
 body {
-	background: rgb(
-
-
-
+	background: rgb(221, 219, 247);
 
 }
+
+.Menu {
+	
+	text-align: center;
+}
+
+.Menu h1 {
+	font-size: 60px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.Menu h2 {
+	font-size: 40px;
+	text-align: center;
+}
+
+.Menu li {
+	display: inline;
+	padding: 10px;
+	border: solid 3px;
+	border-radius: 15px;
+}
+
+.Lilja {
+	float: left;
+	border: solid 10px;
+	border-radius: 30px;
+	margin-top: 100px;
+	margin-left: 150px;
+	padding: 30px;
+}
+
+.Petteri {
+	float: right;
+	border: solid 10px;
+	border-radius: 30px;
+	margin-top: 100px;
+	margin-right: 150px;
+	padding: 30px;
+}
+
+.Name {
+	text-align: center;
+	font-size: 40px;
+
+}
+
+.Petteri h4, .Lilja h4 {
+	font-size: 20px;
+
+}
+
+.Lilja img, .Petteri img {
+	margin-left: 150px;
+
+}
+
+.Order-Instructions h2 {
+	font-size: 30px;
+
+}
+
+.Order-Instructions h3 {
+	font-size: 20px;
+
+}
+
+.Order-Instructions li {
+	font-size: 25px;
+	margin: 10px;
+	width: 850px;
+	text-decoration: underline; 
+
+}
+
+
+
+
+
+
+
+
+

@@ -1,24 +1,21 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Koding Kiiskis Official Website</title>
+		<title>Koding Kiiski's Official Website</title>
 		<link rel="stylesheet" type="text/css" href="Website.css">
 	</head>
 	<body>
+		<h1>Koding Kiiskis</h1>
+		<h2>Rating System</h2>
 
-                <div class="Menu">
-
-	                <h1>Koding Kiiskis</h1>
-        	        <h2>Rating System Page</h2>
-
-                        <ul>
-                                <li><a href="Link">Home</a></li>
-                                <li><a href="Link">How To Order</a></li>
-                                <li><a href="Link">Rating System</a></li>
-                                <li><a href="Link">Contact Us</a></li>
-                        </ul>
-                </div>
-
+		<div class="Menu">
+			<ul>
+				<li><a href="link">Home</a><li>
+				
+				<li><a href="link">How To Order</a></li>
+				<li><a href="/home/sepatuu/KodingKiiskis/Contacts.html">Contact</a></li>
+			</ul>
+		</div>
 		<h2>Requirements for each rating</h2>
 		<h3>One Star</h3>
 		<ul>
