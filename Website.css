@@ -25,12 +25,14 @@ body {
 }
 
 .Person{
-	float: left;
+	margin-left: auto;
+	margin-right: auto;
 	border: solid 10px;
 	border-radius: 30px;
-	margin: 11%;
 	padding: 10px;
-	width: 25.5%;
+	width: 30%;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .Name {
@@ -46,8 +48,10 @@ body {
 }
 
 .Person img {
-	margin-left: 75px;
-
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
 }
 
 .Order-Instructions h2 {
