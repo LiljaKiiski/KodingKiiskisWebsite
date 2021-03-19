@@ -54,6 +54,11 @@ body {
 	width: 75%;
 }
 
+.Order-Instructions, .Requirements {
+	margin: 15px;
+
+}
+
 .Order-Instructions h2 {
 	font-size: 30px;
 
