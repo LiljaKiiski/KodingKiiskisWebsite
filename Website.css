@@ -43,7 +43,6 @@ body {
 
 .Person h4 {
 	font-size: 22px;
-
 }
 
 .Person img {
@@ -55,17 +54,14 @@ body {
 
 .Order-Instructions, .Requirements {
 	margin: 15px;
-
 }
 
 .Order-Instructions h2 {
 	font-size: 30px;
-
 }
 
 .Order-Instructions h3 {
 	font-size: 20px;
-
 }
 
 .Order-Instructions li {
